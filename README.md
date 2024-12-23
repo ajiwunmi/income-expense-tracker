@@ -85,19 +85,3 @@ EMAIL_HOST_PASSWORD = 'your-email-password'
 * Add income and expense entries via the user-friendly forms.
 * Navigate to the dashboard to view graphical representations of your financial data.
 * Receive email notifications as configured.
-
-## Contributing
-
-Contributions are welcome! Follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Submit a pull request with a detailed description of your changes.
-
-## License
-
-This project is licensed under the [MIT License](https://chatgpt.com/c/LICENSE).
-
-## Contact
-
-For questions or support, contact [your-email@example.com](mailto:your-email@example.com).
