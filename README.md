@@ -38,7 +38,7 @@ This is a web application developed using **Python Django** with the **MVC archi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/income-expense-tracker.git
+   git clone https://github.com/ajjiwunmi/income-expense-tracker.git
    cd income-expense-tracker
    ```
 2. **Set Up a Virtual Environment:**
